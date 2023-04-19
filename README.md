@@ -10,7 +10,11 @@
 
 - HTTP: Entendendo a web por baixo dos panos
 
-> Fábio Pimentel | Geovane Fedrecheski
+> Fábio Pimentel
+
+- HTTP: Entendendo a web por baixo dos panos
+
+> Geovane Fedrecheski
 
 ## 💙 Contato
 
